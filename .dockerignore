@@ -1,0 +1,12 @@
+target/
+.git/
+.github/
+Dockerfile
+.dockerignore
+README.md
+.gitignore
+*.rs.bk
+*.swp
+*~
+\#*\#
+.#*
